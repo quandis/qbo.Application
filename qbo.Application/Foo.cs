@@ -8,5 +8,9 @@ namespace qbo.Application
 {
     public class Foo
     {
+		public void Hello()
+		{
+
+		}
     }
 }
